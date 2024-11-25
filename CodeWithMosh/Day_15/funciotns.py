@@ -5,6 +5,6 @@ def greet_user():
 
 
 print('start')
-#calling funcitons
+#calling 
 greet_user()
 print("Finish")
