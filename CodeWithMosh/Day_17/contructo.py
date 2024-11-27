@@ -4,9 +4,8 @@ class Person:
         self.name = name
     
     def talk(self):
-        print("talk")
+        print(f"Hi, I am {self.name}")
 
 
 john = Person("John smith")
-print(john.name)
-john.talk
+john.talk()
