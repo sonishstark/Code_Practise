@@ -1,6 +1,6 @@
 def get_guess():
     #variables inside the functions can be same name and different values
-    guess = input("Enter a number: ") 
+    guess = int(input("Enter a number: "))
     return guess
 
 def main():
@@ -10,10 +10,11 @@ def main():
 
 def main2():
     guess = get_guess()
+    #adding a conditional statement
     if guess == 50:
         print("Correct")
     else:
-        print("incorrect")
+        print("Incorrect")
     
     
 main2()
