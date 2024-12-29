@@ -19,6 +19,7 @@ def switchcase():
             print("Gryffindor")
         case "draco":
             print("Slytherin")
+            #if not instead of break
         case _:
             print("Who?")
 switchcase()
