@@ -1,5 +1,5 @@
 name = input("what's your name? ").lower()
-#we can check the names this way too
+#we can check the names this way to
 
 def ifelse():
     
