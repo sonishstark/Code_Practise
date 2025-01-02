@@ -1,1 +1,2 @@
-len("Hello")
+length = len("Hello")
+print(length)
