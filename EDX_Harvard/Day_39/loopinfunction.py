@@ -13,10 +13,5 @@ def meow(n):
         print("meow")
 
 main()
-<<<<<<< HEAD
-#29
-=======
-#31
->>>>>>> 75248ebf2704b5daaf764f0b4c7fe570d6303160
-
+#32
 
