@@ -8,3 +8,4 @@ def print_square(size):
         print()
 
 main()
+#42
