@@ -1,8 +1,7 @@
 def main():
-    print(write_letter("Mario", "Princes Peach"))
-    print(write_letter("Luigi", "Princes Peach"))
-    print(write_letter("Daisy", "Princes Peach"))
-    print(write_letter("Yoshi", "Princes Peach"))
+    names = ["Mario", "Luigi", "Daisy", "Yoshi"]
+    for i in range(len(names)):
+        print(write_letter(names[i], "Princess Peach"))
 
 def write_letter(receiver, sender):
     return f"""
