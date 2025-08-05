@@ -10,4 +10,5 @@ print(f"hello, {name}")
 #splitting name
 first, last = name.split()
 print(f"hello, {first}")
+print(f"hello, {last}")
 print("hi")
