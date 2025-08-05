@@ -5,6 +5,6 @@ def main():
     
 #passing the name in the function
 def hello(to):
-    print("hello,", to)
+    print(f"hello, {to}")
 
 main()

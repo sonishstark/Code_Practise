@@ -1,8 +1,9 @@
-def main():
-    x = int(input("Enter the value of x: "))
-    print("x squared is", square(x))
-    
-def square(n):
-    return n * n
+def square(r):
+    return r * r
 
-main()
+def main():
+    x = int(input("Ente an integer: "))
+    print(f"The square of {x} is {square(x)}")
+
+if __name__ == "__main__":
+    main()
