@@ -17,4 +17,4 @@ def main2():
         print("Incorrect")
     
     
-main2()
+main()

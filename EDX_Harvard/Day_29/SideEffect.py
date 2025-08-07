@@ -4,6 +4,7 @@ emoticon = "v.v"
 def main():
     #we can modify the global variable 
     global emoticon
+    #passing a string to the function
     say("Is anyone there?")
     #moification only happening in the second function call
     emoticon = ":)"
