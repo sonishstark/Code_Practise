@@ -20,4 +20,4 @@ def conditional_2():
     else:
         print("X is equal to Y")
 
-conditional_2()
+conditional_1()

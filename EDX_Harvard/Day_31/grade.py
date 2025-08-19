@@ -21,7 +21,7 @@ def grading_2():
     #creating a limit
     if 90 <= score <=100:
         print("Grade: A")
-    elif 80 <=score < 90:
+    elif 80 <= score < 90:
         print("Grade: B")
     elif 70 <= score < 80:
         print("Grade: C")
