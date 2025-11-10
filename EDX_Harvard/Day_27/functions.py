@@ -7,7 +7,7 @@ def main():
     #we can assign same variable, and a funciton to a variable
     guess = get_guess()
     print("The entered value is: ", guess)
-
+    
 def main2():
     guess = get_guess()
     #adding a conditional statement
